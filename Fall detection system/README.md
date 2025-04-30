@@ -27,7 +27,7 @@ It simulates tilt-based fall detection with alerts via LED and buzzer.
 ![Circuit Diagram](Circuit_Diagram.png)
 
 ### Serial Monitor Output
-![Serial Monitor](Serial_Mointor.png)
+![Serial Monitor](Serial_Monitor.png)
 
 ## 🧠 How It Works
 The potentiometer simulates a tilt sensor. When the analog signal crosses a defined threshold, a fall is detected:
